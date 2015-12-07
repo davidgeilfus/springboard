@@ -1,0 +1,26 @@
+{
+  "name": "springboard",
+  "version": "0.0.1",
+  "description": "A light yet solid foundation upon which to build any CSS project.",
+  "keywords": [
+    "springboard",
+    "bem",
+    "css",
+    "framework",
+    "front-end",
+    "itcss",
+    "mobile-first",
+    "oocss",
+    "responsive",
+    "sass",
+    "smacss"
+  ],
+  "homepage": "https://github.com/davidgeilfus/springboard",
+  "authors": [
+    "David Geilfus <davidgeilfus@gmail.com>"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
