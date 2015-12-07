@@ -8,6 +8,12 @@ By contrast, Springboard aims to be a framework in the true sense of the word. I
 
 ## Installation
 
+Install using Bower:
+
+```console
+$ bower install --save springboard
+```
+
 ## Contributing
 
 ## License
