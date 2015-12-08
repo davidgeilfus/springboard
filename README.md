@@ -24,9 +24,11 @@ $ bower install --save springboard
 Or to install it using npm:
 
 ```console
-$ npm install --save bootstrap
+$ npm install --save springboard
 ```
 
 ## Contributing
 
 ## License
+
+Created by David Geilfus. Released under the [MIT license](https://github.com/davidgeilfus/springboard/blob/master/LICENSE).
