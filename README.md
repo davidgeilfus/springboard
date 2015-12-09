@@ -6,13 +6,11 @@ While this makes for powerful prototyping tools, it also makes them bloated, har
 
 On the other hand, Springboard aims to be a framework in the true sense of the word. It has a small footprint, does not force any design choice on you, and provides a solid foundation upon which to build any CSS project.
 
-## What’s included
-
-Springboard includes the following:
+Today, Springboard includes the following:
 
 * **A solid CSS architecture** based on [ITCSS](http://itcss.io), which will help you stay sane when you scale
+* **A collection of common design patterns** (objects) to build upon, drawn on the principles of [OOCSS](http://oocss.org)
 * **A code as self-documenting as possible** by combining namespacing and [BEM](https://en.bem.info) naming conventions
-* A collection of cosmetic-free objects
 
 ## Installation
 
@@ -28,7 +26,7 @@ Or to install it using npm:
 $ npm install --save springboard
 ```
 
-## Contributing
+## Usage
 
 ## License
 
